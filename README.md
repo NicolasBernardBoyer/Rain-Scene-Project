@@ -3,6 +3,9 @@ Nicolas Boyer, 2024
 
 ![image](https://github.com/user-attachments/assets/08c0ebdb-7ecf-4e2f-becd-38d43a86b919)
 
+You can view a demo here: 
+rainscene/web/demo.mp4
+
 # Project: Rainscene
 This is a project created for my Computer Graphics class, written in C++ OPENGL. It requires a docker container and XLaunch to run.
 
