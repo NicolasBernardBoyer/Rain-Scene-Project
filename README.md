@@ -3,7 +3,7 @@ Nicolas Boyer, 2024
 
 ![image](https://github.com/user-attachments/assets/08c0ebdb-7ecf-4e2f-becd-38d43a86b919)
 
-You can view a demo here: 
+You can view a demo under
 rainscene/web/demo.mp4
 
 # Project: Rainscene
